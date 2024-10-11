@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\bin\Debug\net8.0\EjercicioDeAngeloSoza.exe
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\bin\Debug\net8.0\EjercicioDeAngeloSoza.deps.json
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\bin\Debug\net8.0\EjercicioDeAngeloSoza.runtimeconfig.json
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\bin\Debug\net8.0\EjercicioDeAngeloSoza.dll
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\bin\Debug\net8.0\EjercicioDeAngeloSoza.pdb
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.sourcelink.json
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.dll
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\refint\EjercicioDeAngeloSoza.dll
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.pdb
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\EjercicioDeAngeloSoza.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Desktop\Exposición\AngeloSoza\EjercicioDeAngeloSoza\EjercicioDeAngeloSoza\obj\Debug\net8.0\ref\EjercicioDeAngeloSoza.dll
