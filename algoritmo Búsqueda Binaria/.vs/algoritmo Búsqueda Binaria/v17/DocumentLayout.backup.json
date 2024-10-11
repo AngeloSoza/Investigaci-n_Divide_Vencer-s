@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solis\\OneDrive\\Escritorio\\MetoProgEstruc\\algoritmo B\u00FAsqueda Binaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F421D824-EA06-42DE-BB6F-1C36F8DF334B}|..\\algoritmo B\u00FAsqueda Binaria\\algoritmo B\u00FAsqueda Binaria\\algoritmo B\u00FAsqueda Binaria..csproj|c:\\users\\solis\\onedrive\\escritorio\\metoprogestruc\\algoritmo b\u00FAsqueda binaria\\algoritmo b\u00FAsqueda binaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F421D824-EA06-42DE-BB6F-1C36F8DF334B}|..\\algoritmo B\u00FAsqueda Binaria\\algoritmo B\u00FAsqueda Binaria\\algoritmo B\u00FAsqueda Binaria..csproj|solutionrelative:algoritmo b\u00FAsqueda binaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solis\\OneDrive\\Escritorio\\MetoProgEstruc\\algoritmo B\u00FAsqueda Binaria\\algoritmo B\u00FAsqueda Binaria\\Program.cs",
+              "RelativeDocumentMoniker": "algoritmo B\u00FAsqueda Binaria\\Program.cs",
+              "ToolTip": "C:\\Users\\solis\\OneDrive\\Escritorio\\MetoProgEstruc\\algoritmo B\u00FAsqueda Binaria\\algoritmo B\u00FAsqueda Binaria\\Program.cs*",
+              "RelativeToolTip": "algoritmo B\u00FAsqueda Binaria\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:45:28.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

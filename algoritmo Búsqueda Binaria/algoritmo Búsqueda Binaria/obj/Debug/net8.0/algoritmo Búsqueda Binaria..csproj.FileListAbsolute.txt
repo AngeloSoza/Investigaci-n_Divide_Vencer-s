@@ -1,0 +1,14 @@
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\bin\Debug\net8.0\algoritmo Búsqueda Binaria..exe
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\bin\Debug\net8.0\algoritmo Búsqueda Binaria..deps.json
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\bin\Debug\net8.0\algoritmo Búsqueda Binaria..runtimeconfig.json
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\bin\Debug\net8.0\algoritmo Búsqueda Binaria..dll
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\bin\Debug\net8.0\algoritmo Búsqueda Binaria..pdb
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..AssemblyInfoInputs.cache
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..AssemblyInfo.cs
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..csproj.CoreCompileInputs.cache
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..dll
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\refint\algoritmo Búsqueda Binaria..dll
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..pdb
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\algoritmo Búsqueda Binaria..genruntimeconfig.cache
+C:\Users\solis\OneDrive\Escritorio\MetoProgEstruc\algoritmo Búsqueda Binaria\algoritmo Búsqueda Binaria\obj\Debug\net8.0\ref\algoritmo Búsqueda Binaria..dll
