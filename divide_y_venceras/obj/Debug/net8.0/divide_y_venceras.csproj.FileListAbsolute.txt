@@ -1,0 +1,14 @@
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\bin\Debug\net8.0\divide_y_venceras.exe
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\bin\Debug\net8.0\divide_y_venceras.deps.json
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\bin\Debug\net8.0\divide_y_venceras.runtimeconfig.json
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\bin\Debug\net8.0\divide_y_venceras.dll
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\bin\Debug\net8.0\divide_y_venceras.pdb
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.AssemblyInfoInputs.cache
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.AssemblyInfo.cs
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.csproj.CoreCompileInputs.cache
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.dll
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\refint\divide_y_venceras.dll
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.pdb
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\divide_y_venceras.genruntimeconfig.cache
+C:\Users\knnth\Desktop\2do semestre\Metologia y programacion estructurada\Semana 8 programacion\divide_y_venceras\divide_y_venceras\obj\Debug\net8.0\ref\divide_y_venceras.dll
